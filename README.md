@@ -14,7 +14,7 @@ Please send your any questions to "maojianwei2020@gmail.com" or "maojianwei2012@
 
 OVSPipeline install steps:
 
-1. Move OVSPipeline.java to $ONOS_ROOT/driver/default/pipeline/
+1. Move OVSPipeline.java to $ONOS_ROOT/drivers/default/src/main/java/org/onosproject/driver/pipeline/
 
 2. Modify $ONOS_ROOT/drivers/default/src/main/resources/onos-drivers.xml,
 
